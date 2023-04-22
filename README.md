@@ -14,8 +14,9 @@ REPORTANDO OS ERROS NO JIRA
 
 
 ![Captura de Tela 2023-04-22 às 11 28 33](https://user-images.githubusercontent.com/114350607/233791352-9134abcf-a136-4a4d-ae42-d5a635cd85e5.png)
-![Captura de Tela 2023-04-22 às 11 28 55](https://user-images.githubusercontent.com/114350607/233791380-51b50d9a-0dbc-44c4-963e-9332be62db76.png)
 
+
+![jira_erros](https://user-images.githubusercontent.com/114350607/233793930-e6ef6e0e-566f-4668-9560-28b21d3fff6f.png)
 
 BACKLOG JIRA
 
