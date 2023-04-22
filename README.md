@@ -9,3 +9,15 @@ https://joaomarcos-rj.atlassian.net/wiki/spaces/JOAO/overview
 ![Captura de Tela 2023-04-21 às 14 11 43](https://user-images.githubusercontent.com/114350607/233695976-86df3d3f-969a-4f87-8e7a-f3781204bf3e.png)
 ![Captura de Tela 2023-04-21 às 14 15 35](https://user-images.githubusercontent.com/114350607/233696414-390b9ff1-91bc-42d1-b570-415da26498dc.png)
 ![Captura de Tela 2023-04-21 às 14 16 45](https://user-images.githubusercontent.com/114350607/233696823-07b3d4c2-76e0-46a3-834d-107789ccd7b5.png)
+
+REPORTANDO OS ERROS NO JIRA
+
+
+![Captura de Tela 2023-04-22 às 11 28 33](https://user-images.githubusercontent.com/114350607/233791352-9134abcf-a136-4a4d-ae42-d5a635cd85e5.png)
+![Captura de Tela 2023-04-22 às 11 28 55](https://user-images.githubusercontent.com/114350607/233791380-51b50d9a-0dbc-44c4-963e-9332be62db76.png)
+
+
+BACKLOG JIRA
+
+![Captura de Tela 2023-04-22 às 11 52 07](https://user-images.githubusercontent.com/114350607/233791855-5e75151f-c735-475d-823d-32cd03d4278b.png)
+![Captura de Tela 2023-04-22 às 11 52 07](https://user-images.githubusercontent.com/114350607/233791883-0809e970-b3f0-4713-8939-dcaee15383b3.png)
