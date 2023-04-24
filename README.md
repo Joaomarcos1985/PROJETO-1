@@ -3,7 +3,8 @@ CRIAÇAO DE ROTEIRO DE TESTE NO CONFLUENCE E DOCUMENTAÇAO DE DEFEITOS NO JIRA
 
 https://joaomarcos-rj.atlassian.net/wiki/spaces/JOAO/overview
 
-![conflu_RT](https://user-images.githubusercontent.com/114350607/233794792-2490e9ce-8541-4c71-bed8-48097ab2f209.png)
+![telainteira](https://user-images.githubusercontent.com/114350607/234087268-4c89a5ce-635c-4b30-9d0b-f31f788c3ea6.png)
+
 
 
 REPORTANDO OS ERROS NO JIRA
